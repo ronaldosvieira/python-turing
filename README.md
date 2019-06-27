@@ -42,8 +42,8 @@ Para executar o programa via terminal ou prompt de comando, navegue at&eacute; a
 Sendo XXXX o nome do arquivo em que est&atilde;o os dados sobre a MT.
 *(Nota: Em ambos os casos, &eacute; necess&aacute;rio que o usu&aacute;rio tenha instalado o interpretador para Python3)*
 
-<a name="4">3. Como criar uma M&aacute;quina de Turing</a>
-Segue um exemplo de MT j&aacute; criada:
+## <a name="4">3. Exemplo</a>
+A seguir, um exemplo de MT j&aacute; criada:
 ```python
 	from turing import *
 	
